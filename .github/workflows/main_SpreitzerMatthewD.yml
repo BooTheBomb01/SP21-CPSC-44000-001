@@ -35,5 +35,5 @@ jobs:
       with:
         app-name: 'SpreitzerMatthewD'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7ba706615fbe4a07a33b06c9383257ff }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_242831baf26445df8d63b5f008ed0e08 }}
         package: '.\app.zip'
